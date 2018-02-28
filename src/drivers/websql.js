@@ -1,9 +1,9 @@
-import isWebSQLValid from '../utils/isWebSQLValid';
-import serializer from '../utils/serializer';
-import Promise from '../utils/promise';
-import executeCallback from '../utils/executeCallback';
-import normalizeKey from '../utils/normalizeKey';
-import getCallback from '../utils/getCallback';
+import isWebSQLValid from '../utils/isWebSQLValid.js';
+import serializer from '../utils/serializer.js';
+import Promise from '../utils/promise.js';
+import executeCallback from '../utils/executeCallback.js';
+import normalizeKey from '../utils/normalizeKey.js';
+import getCallback from '../utils/getCallback.js';
 
 /*
  * Includes code from:
